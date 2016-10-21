@@ -1846,7 +1846,7 @@ h2 + p {
 }
 
 p + h5 {
-  margin-top: 54px;
+  margin-top: 34px;
 }
 
 span + h4 {
@@ -1894,7 +1894,7 @@ h6 + p {
 }
 
 .index-list + .btn {
-  margin-top: 30px;
+  margin-top: 24px;
 }
 
 @media (min-width: 992px) {
@@ -2673,7 +2673,7 @@ html body .page .text-primary {
 
 @media (min-width: 1200px) and (min-height: 660px) {
   .bg-secondary-var-1 {
-    padding: 147px 23px 100px 13px;
+    padding: 50px 23px 100px 13px;
     position: relative;
     z-index: 5;
     margin-top: -93px;
@@ -11468,8 +11468,8 @@ a.icon-primary:hover {
 */
 .index-list {
   counter-reset: li;
-  margin-top: 48px;
-  font-size: 20px;
+  margin-top: 22px;
+  font-size: 18px;
   font-weight: 600;
   color: #7aaa00;
 }
@@ -11541,9 +11541,9 @@ a.icon-primary:hover {
 
 @media (min-width: 480px) {
   .index-list {
-    columns: 2;
-    -moz-columns: 2;
-    -webkit-columns: 2;
+    // columns: 2;
+    // -moz-columns: 2;
+    // -webkit-columns: 2;
   }
 }
 
