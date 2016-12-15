@@ -11699,11 +11699,11 @@ a.icon-primary:hover {
 */
 .brand {
   position: absolute;
-  top: 52%;
-  left: 51%;
+  top: 45%;
+  left: 36%;
   z-index: 5;
-  -webkit-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-30%, -30%);
+  transform: translate(-30%, -30%);
   font-family: "Unica One", cursive;
 }
 
